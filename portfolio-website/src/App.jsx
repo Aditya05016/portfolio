@@ -6,7 +6,7 @@ import Projects from "./components/Projects";
 import ProfileLinks from "./components/Profiles";
 import Contact from "./components/Contact";
 import Skills from "./components/Skills";
-import Footer from "./components/footer.jsx";
+import Footer from "./components/footer";
 
  function App() {
   return (
